@@ -1,3 +1,4 @@
+Telethon==1.29.3
 aiofiles
 aiohttp
 cloudscraper
@@ -67,6 +68,5 @@ wikipedia
 wget
 youtube-search
 yt-dlp==2023.7.6
-git+https://github.com/sandy1709/Telethon@beta
 git+https://github.com/sandy1709/py-googletrans
 git+https://github.com/alexmercerind/youtube-search-python
