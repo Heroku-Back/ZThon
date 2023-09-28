@@ -39,7 +39,7 @@ pygments
 pylast
 pymediainfo
 pySmartDL
-pytube
+pytube==15.0.0
 python-barcode
 python-dotenv
 pytz
@@ -66,7 +66,7 @@ wand
 wikipedia
 wget
 youtube-search
-yt-dlp==2023.7.6
+yt-dlp==2023.09.24
 
 git+https://github.com/sandy1709/Telethon@beta
 git+https://github.com/sandy1709/py-googletrans
